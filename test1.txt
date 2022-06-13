@@ -6,3 +6,4 @@ I have completed my diploma in engineering in 2021 from Brahmanbaria Polytechnic
 I have completed my internship from Creative It Institute.
 I have starting to learn web development in 2017.
 I will join as a full stack web developer on january 2023 inshallah.
+Solving the image alignment issue.
